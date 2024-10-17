@@ -1,0 +1,2 @@
+RewriteEngine On
+RewriteRule ^speakers/(.*)$ layouts/speakers/$1.php [L]
